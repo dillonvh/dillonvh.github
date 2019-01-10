@@ -1,5 +1,5 @@
 .jumbotron {
-    background: #333 url('../img/moraine.jpg');
+    background: #000 url('../img/moraine.jpg') -75px -150px;
     color: #fff;
     text-align: center;
     border-bottom: 5px #f4f4f4 solid;
